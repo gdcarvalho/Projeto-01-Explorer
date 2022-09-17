@@ -2,7 +2,7 @@
 
 ![preview](./.github/#)
 
-> Trilha Explore
+> Trilha Explore - Stage 02
 
 Projeto construído no curso Explorer Rocketseat
 
