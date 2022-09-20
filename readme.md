@@ -1,6 +1,6 @@
 # Aula Introdução ao HTML e CSS
 
-![preview](./.github/#)
+![preview](./images/screen.png)
 
 > Trilha Explore - Stage 02
 
